@@ -1,0 +1,33 @@
+_repo: Nazareth-a-morality-in-one-act_69644
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Housman, Laurence
+    aliases:
+    - Housman, Lawrence
+    - Bunny, Benjamin
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '1218'
+    url: http://www.gutenberg.org/2009/agents/1218
+    wikipedia: https://en.wikipedia.org/wiki/Laurence_Housman
+description: ''
+gutenberg_issued: '2022-12-26'
+identifiers:
+  gutenberg: '69644'
+language: en
+pgterms:marc904: https://archive.org/details/nazarethmorality00housrich/page/n3/mode/2up
+pgterms:marc905: 20211126120117housman
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Charlene Taylor, Carla Foust and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: Samuel French, Ltd.,1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nazareth: a morality in one act'
+url: http://www.gutenberg.org/ebooks/69644
