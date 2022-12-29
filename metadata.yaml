@@ -1,5 +1,8 @@
 _repo: Nazareth-a-morality-in-one-act_69644
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69644-h/images/cover.jpg
 creator:
   author:
     agent_name: Housman, Laurence
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1218
     wikipedia: https://en.wikipedia.org/wiki/Laurence_Housman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69644#Nazareth-a-morality-in-one-act
 gutenberg_issued: '2022-12-26'
 identifiers:
   gutenberg: '69644'
